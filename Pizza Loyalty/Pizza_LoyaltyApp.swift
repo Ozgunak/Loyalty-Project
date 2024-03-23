@@ -11,7 +11,7 @@ import SwiftUI
 struct Pizza_LoyaltyApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
